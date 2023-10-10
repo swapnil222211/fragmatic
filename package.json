@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "commander": "^11.0.0",
+    "compromise": "^14.10.0",
+    "csv-parser": "^3.0.0",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.1",
+    "natural": "^6.7.2",
+    "node-nlp": "^4.27.0",
+    "sentiment": "^5.0.2"
+  },
+  "name": "evalutiontask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
